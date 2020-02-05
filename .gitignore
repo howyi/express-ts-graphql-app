@@ -1,0 +1,6 @@
+# NOT PHP
+*.php
+
+# dependencies
+node_modules/
+build/
